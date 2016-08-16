@@ -1,0 +1,13 @@
+.list {
+	list-style:none; padding-left:0;
+}
+.image {
+	width: 300px; border-radius: 2px; border-style: solid; border-width: 1px; margin-bottom: 5px;
+}
+.full-card {
+	background-color: #70644f; padding-left: 17px; width: 320px; border-style: solid; border-width: 1px; border-radius: 2px; font-size: 14px;
+}
+.body {
+	width: 290px; border-style: solid; border-width: 1px; padding: 5px; margin-bottom: 15px;
+}
+.p1 {vertical-align: top;}
